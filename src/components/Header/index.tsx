@@ -1,4 +1,4 @@
-import { RocketLaunch, Scroll, Timer } from "phosphor-react";
+import { Hourglass, Scroll, Timer } from "phosphor-react";
 import { NavLink } from "react-router-dom";
 
 import { HeaderContainer } from "./styles";
@@ -7,7 +7,7 @@ export function Header() {
   return (
     <HeaderContainer>
       <span>
-        <RocketLaunch size={38} />
+        <Hourglass size={38} />
       </span>
 
       <nav>
