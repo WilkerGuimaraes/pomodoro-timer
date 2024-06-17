@@ -15,7 +15,7 @@ Este é um projeto front-end onde foi desenvolvido um temporizador pomodoro, cuj
 ## 🧰 Recursos
 
 - `react-hook-form`: é uma biblioteca React que utiliza React Hooks para gerenciar o estado dos campos de formulários. Neste projeto esta biblioteca esta sendo utilizada para lidar com a validação dos campos e controlar o envio do formulário.
-- `react-router-dom`: é uma biblioteca muito útil para criar aplicações React com múltiplas páginas ou rotas. Foi usado neste projeto para permitir a navegação entre partes diferentes da lista de produtos sem a necessidade de recarregar a página novamente. E também foi usado para criar um sistema de filtragem de produtos.
+- `react-router-dom`: é uma biblioteca muito útil para criar aplicações React com múltiplas páginas ou rotas. Foi usado neste projeto para permitir a navegação entre rotas da página inicial e a página de registros.
 - `zod`: é uma biblioteca de validação de esquemas em TypeScript. Nesta aplicação ela está sendo utilizada para definir o esquema de validação dos produtos do formulário.
 - `date-fns`: é uma biblioteca popular em JavaScript para manipulação e formatação de datas.
 
