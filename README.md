@@ -1,5 +1,7 @@
 ## Preview
 
+https://github.com/WilkerGuimaraes/pomodoro-timer/assets/141461291/a1cbdf7d-a3bb-4e46-963c-3e272a12cdbd
+
 # Temporizador pomodoro
 
 ## 📃 Descrição
